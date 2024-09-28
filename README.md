@@ -123,8 +123,6 @@ RODOS can run alone ("bare-metal") or on top of another operating system, which 
 - **Intended purpose**: Satellite control or any application demanding high dependability
 - **Notable features and functions**: Ultra-fast booting; thread-safe communication and synchronization
 
-Here's the text converted to a Markdown list:
-
 # Use Cases for RTOS on Raspberry Pi
 
 Implementing an RTOS on a Raspberry Pi opens up possibilities for applications where timing and reliability are crucial:
